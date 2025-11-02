@@ -1,4 +1,4 @@
-package problem_1
+package main
 
 import "strings"
 

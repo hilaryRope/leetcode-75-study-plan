@@ -1,4 +1,4 @@
-package problem_2
+package main
 
 // gcdOfStrings returns the largest string x such that
 // x divides both str1 and str2.
